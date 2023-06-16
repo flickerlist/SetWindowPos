@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node test/testModule.js",
-    "install": "node-gyp rebuild"
+    "install": "node install"
   },
   "repository": {
     "type": "git",
